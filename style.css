@@ -1,0 +1,65 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h1, hr {
+	margin: 10px;
+}
+
+.box {
+	padding: 10px;
+	display: inline-block;
+	vertical-align: top;
+	height: 230px;
+	width: 230px;
+	border-radius: 10px;
+}
+
+.blue {
+	background-color: blue;
+	color: white;
+}
+
+.red {
+	background-color: red;
+	color: blue;
+}
+
+.pink {
+	background-color: pink;
+	color: green;
+}
+
+.row {
+	height: 30px;
+}
+
+.cell {
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+}
+
+.a {
+	background-color: red;
+}
+
+.b {
+	background-color: black;
+}
+
+#size {
+	margin: 20px 10px;
+	display: inline-block;
+	vertical-align: top;
+	width: 35px;
+	padding: 5px;
+}
+
+#checkerboard {
+	margin: 20px 10px;
+	display: inline-block;
+	vertical-align: top;
+}
