@@ -1,2 +1,2 @@
 # basic-react
-Learning about ```createElement``` and ```render```
+Trying out ```createElement``` and ```render```
